@@ -22,6 +22,6 @@ Test Credentials
 
  2. User:
 
-   Email: nikii12@gmail.com
+    Email: nikii12@gmail.com
 
-   Password: THAPATHALI078!A
+    Password: THAPATHALI078!A
